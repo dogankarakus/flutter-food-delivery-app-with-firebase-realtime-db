@@ -2,5 +2,5 @@
 Firebase Realtime Database as Back-end
     - Used in 'cart' and 'favourites' pages.
 
-![MOCKUP1](lib/assets/mock1.png)
-![MOCKUP2](lib/assets/mock2.png)
+![MOCKUP1](lib/assets/mockupp1.png)
+![MOCKUP2](lib/assets/mockupp2.png)
